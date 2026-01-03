@@ -72,7 +72,7 @@
 &kp F5   &kp F4   &kp F3   &kp F2   &kp F1                             &trans  &kp LEFT_ARROW  &kp UP_ARROW    &kp RIGHT_ARROW  &trans
 &kp F10  &kp F9   &kp F8   &kp F7   &kp F6   &kp F13           &trans  &trans  &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW  &trans
 &kp F11  &kp F18  &kp F17  &kp F16  &kp F15  &kp F14           &trans  &trans  &kp RG(Q)       &kp RG(W)       &trans           &trans
-&kp F12  &trans   &trans   &trans   &trans   &kp CAPSLOCK      &trans  &trans                                                   &trans
+&kp F12  &trans   &trans   &none    &trans   &kp CAPSLOCK      &trans  &trans                                                   &trans
             >;
         };
 
